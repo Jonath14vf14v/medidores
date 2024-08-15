@@ -1,0 +1,8 @@
+Requerimientos:
+fastapi
+uvicorn
+opencv-python-headless
+numpy
+easyocr
+torch
+ultralytics
